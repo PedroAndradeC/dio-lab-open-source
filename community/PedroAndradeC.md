@@ -22,10 +22,6 @@ Meu objetivo é me tornar um desenvolvedor Back-End. Atualmente, estou focado no
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroAndradeC&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroAndradeC&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-### Dio Profile
-[![DIO](https://hermes.dio.me/public-users/cvsalarc/share/7dd02b596b6bd00f632f67b54f520f4a.png)](https://www.dio.me/users/pedroandradecosta)
-
 ---
 
 Este README é apenas uma breve introdução sobre mim e meus interesses na área de tecnologia. Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Se você tem alguma sugestão ou gostaria de entrar em contato, sinta-se à vontade para me enviar uma mensagem. Obrigado por visitar! 😊🚀
